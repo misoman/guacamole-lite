@@ -5,7 +5,7 @@ const websocketOptions = {
 };
 const guacdOptions = {
     port: 4822,
-    host: '127.0.0.1'
+    host: 'guacd'
 };
 const clientOptions = {
     crypt: {
